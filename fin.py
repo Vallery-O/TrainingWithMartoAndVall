@@ -1,0 +1,1 @@
+print("It's a good day to learn new things ")
